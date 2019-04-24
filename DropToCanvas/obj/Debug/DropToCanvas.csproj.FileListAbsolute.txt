@@ -1,0 +1,14 @@
+D:\play-project\DropToCanvas\DropToCanvas\bin\Debug\DropToCanvas.exe.config
+D:\play-project\DropToCanvas\DropToCanvas\bin\Debug\DropToCanvas.exe
+D:\play-project\DropToCanvas\DropToCanvas\bin\Debug\DropToCanvas.pdb
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\MainWindow.g.cs
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\App.g.cs
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas_MarkupCompile.cache
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas_MarkupCompile.lref
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\MainWindow.baml
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas.g.resources
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas.Properties.Resources.resources
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas.csproj.GenerateResource.Cache
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas.exe
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas.pdb
+D:\play-project\DropToCanvas\DropToCanvas\obj\Debug\DropToCanvas.csprojResolveAssemblyReference.cache
